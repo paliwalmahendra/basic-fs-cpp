@@ -37,7 +37,7 @@ int main() {
             std::string directory;
             iss >> directory;
             cd(directory);
-        } else if (command == "mkdir" || command == "cp" || command == "rm" || command == "touch" || command == "mv" || command == "cat" || command == "echo" || command == "grep") {
+        } else if (command == "mkdir" || command == "cp" || command == "rm" || command == "touch" || command == "mv" || command == "cat" || command == "echo" || command == "grep" || command == "ls") {
             executeCommand(input);
         } else {
             std::cerr << "Unknown command: " << command << std::endl;
