@@ -1,6 +1,6 @@
 # Simple C++ Shell
 
-A basic C++ program that acts as a simple shell, accepting commands like `mkdir`, `cp`, `rm`, `cd`, `touch`, `echo`, `cat`, `mv`, `grep`, and executing them.
+A basic C++ program that acts as a simple shell, accepting commands like `mkdir`, `cp`, `ls`, `rm`, `cd`, `touch`, `echo`, `cat`, `mv`, `grep`, and executing them.
 
 ## Usage
 
